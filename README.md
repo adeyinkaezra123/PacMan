@@ -5,8 +5,7 @@ A historical tribute and accurate remake of the original Pac-Man arcade game
 
 Inspired by *The Pac-Man Dossier*
 
-### Under Construction
-
+### Still Under Construction tho 😎
 
 
 - [x] Sound
@@ -50,7 +49,7 @@ Games
 
 Each of the following games are playable from the main menu.
 
-![Montage][1]
+![Montage](https://github.com/adeyinkaezra123/PacMan/blob/master/shots/montage.png)
 
 - **Pac-Man**: 1980 original arcade by Namco.
 - **Ms. Pac-Man**: 1981 Pac-Man modification by GCC/Midway.
@@ -73,7 +72,7 @@ Learn Mode
 
 Learn Mode allows you to visualize the behaviors of the ghosts.  (The colored square represents the ghost bait.)
 
-![Learn][2]
+![Learn](https://github.com/adeyinkaezra123/PacMan/blob/master/shots/learn.png?raw=true)
 
 Practice Mode
 -------------
@@ -81,7 +80,7 @@ Practice Mode
 This mode allows you to practice the game with special features.  You can go
 into **slow-motion** or **rewind time** with the special onscreen buttons or the hotkeys listed below.  (The time-manipulation controls and design were borrowed from the game [Braid](http://braid-game.com/)).  You can also turn on **invincibility** or **ghost visualizers** from the menu.
 
-![Practice][3]
+![Practice](https://github.com/adeyinkaezra123/PacMan/blob/master/shots/practice.png)
 
 ### Practice Controls
 
@@ -100,7 +99,7 @@ Procedurally-Generated Maps
 
 In the **Cookie-Man** game mode, the mazes change as often as they do in Ms. Pac-Man, but are **procedurally generated**.  Each level has a pre-defined color palette, granting an element of consistency to the random structure of the mazes.
 
-![Procedural][4]
+![Procedural](https://github.com/adeyinkaezra123/PacMan/blob/master/shots/procedural.png)
 
 ### Algorithm Description
 
