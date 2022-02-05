@@ -113,8 +113,6 @@ Feel free to report any inaccuracies that may detract or simply annoy.  Any soft
 Navigating the Repository
 -------------------------
 - All javascript source files are located in the "src/" directory
-- "build.sh" file concatenates all the source files into "pacman.js" in the top directory
-- "debug.htm" displays the game by using the "src/*.js" files
 - "index.html" displays the game by using the "pacman.js" file only
 - the "fruit" directory contains notes and diagrams on Ms. Pac-Man fruit paths
 - the "mapgen" directory contains notes, diagrams, and experiments on procedural Pac-Man maze generation
