@@ -1,4 +1,4 @@
-**Pac-Man**
+** Pac-Man **
 =======
 
 A historical tribute and accurate remake of the original Pac-Man arcade game
